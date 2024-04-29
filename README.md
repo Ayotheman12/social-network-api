@@ -34,7 +34,7 @@ And the server's thought routes are listed here:
 - POST `/api/thoughts/:thoughtId/reactions`: add a reaction to a thought
 - DELETE `/api/thoughts/:thoughtId/reactions/:reactionId`: remove a reaction from a thought
 
-A walkthrough of the functionality of the API is provided in the following video: [Walkthrough video](./walkthrough.webm)
+
 
 ## Credits
 
